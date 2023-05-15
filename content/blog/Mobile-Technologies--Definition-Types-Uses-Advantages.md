@@ -8,7 +8,7 @@ description: >-
   from anywhere is referred to as mobile technology. Smartphones, tablets, some
   iPods, and laptops already fall within this category, but this list will
   undoubtedly grow in the future years.
-type: featured
+type: post
 date: '2023-05-13T18:30:00.000Z'
 ---
 
@@ -19,6 +19,3 @@ Mobile technology is largely employed in cellular communication systems and othe
 This is fast expanding; its applications are getting increasingly broad over time, and it is gradually replacing other similar sources of communication on the market, such as post offices and landlines. Mobile technology has progressed from a simple phone and texting device to a multi-tasking system that can be used for GPS navigation, internet browsing, gaming, and instant messaging, among other things. With the rise, experts claim that the future of computer technology is dependent on wireless networking and mobile computing.
 
 Through tablets and small PCs, mobile technology is becoming increasingly popular. This smartphone system has since been improved to a big multitasking computer that can be used for GPS navigation, gaming, internet browsing, and instant messaging. Tablets and portable laptops have increased the adoption of mobile technology. The mobile networks that connect these devices are referred to as wireless systems. They allow speech, data, and (mobile) apps to be shared between mobile devices.
-
-
-
