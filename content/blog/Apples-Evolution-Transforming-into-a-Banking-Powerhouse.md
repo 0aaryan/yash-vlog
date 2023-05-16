@@ -2,7 +2,7 @@
 title: 'Apple''s Evolution: Transforming into a Banking Powerhouse'
 image: /images (13).jpg
 description: ' Apple''s Evolution: Transforming into a Banking Powerhouse'
-type: post
+type: featured
 date: '2023-05-15T18:30:00.000Z'
 ---
 
