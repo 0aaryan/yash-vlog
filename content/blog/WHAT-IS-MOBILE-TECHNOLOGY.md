@@ -8,7 +8,7 @@ description: >-
   use of mobile tech combined with SaaS platforms and cloud-based infrastructure
   for remote data access, these enterprises are able to streamline processes
   while reducing costs and maintaining productivity across the entire workforce.
-type: featured
+type: post
 date: '2023-05-13T18:30:00.000Z'
 ---
 
@@ -21,10 +21,6 @@ Mobile technology is a category consisting of a wide range of devices, with new 
 ### Types of Mobile Networks
 
 For a mobile tech device to connect to other devices or use the internet, it must have access to a network that allows it to transmit a signal. Though mobile technology is often exemplified by physical devices, networks and their infrastructure can also be considered mobile technology. Each network is unique in its functionality.
-
-
-
-
 
 * Cellular Networks: Cellular networks operate through radio networks distributed via cell towers, which allows mobile devices to automatically switch frequencies to their nearest geographical tower without interruption. Cellular networks have the capability to service mass amounts of users at a single time and are currently in their fifth generation of service.
    
@@ -57,6 +53,3 @@ Mobile devices are everywhere, and they’re not just limited to the phones in o
 * Mobile Gaming Consoles: Gaming consoles have long existed in portable forms, but newer generations possess the power to rival home consoles and feature two-way connectivity for accessing downloadable content, playing games with others over a network and sending messages. 
    
 * IoT Devices: Many, but not all, [IoT devices](https://builtin.com/internet-things/iot-devices) can be considered mobile technology, such as sensors and smartwatches. These devices represent a broad category and react to their environment to communicate specific signals when an event is triggered.
-
-
-
