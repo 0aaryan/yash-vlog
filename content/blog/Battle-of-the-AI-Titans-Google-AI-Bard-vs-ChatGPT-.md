@@ -2,7 +2,7 @@
 title: 'Battle of the AI Titans: Google AI Bard vs. ChatGPT '
 image: /download (9).jpg
 description: 'Battle of the AI Titans: Google AI Bard vs. ChatGPT '
-type: post
+type: featured
 date: '2023-05-15T18:30:00.000Z'
 ---
 
