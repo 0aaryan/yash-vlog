@@ -4,6 +4,12 @@ image: /download (9).jpg
 description: 'Battle of the AI Titans: Google AI Bard vs. ChatGPT '
 type: featured
 date: '2023-05-15T18:30:00.000Z'
+tags:
+  - google
+  - chat gpt
+  - 'AI '
+categories:
+  - AI
 ---
 
 The world of artificial intelligence has witnessed remarkable advancements in recent years, enabling machines to perform tasks once considered exclusively human. Google has been at the forefront of AI development, unleashing impressive creations such as Google AI Bard and ChatGPT. Both these AI models have captivated audiences with their abilities to generate text, but they possess distinct characteristics and purposes. In this article, we delve into the battle of the AI titans, exploring the unique features and applications of Google AI Bard and ChatGPT.
