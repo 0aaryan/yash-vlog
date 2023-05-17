@@ -8,7 +8,7 @@ date: '2023-05-15T18:30:00.000Z'
 
 In recent years, Apple has been undergoing a remarkable transformation, expanding its services beyond technology and venturing into the realm of finance. With its innovative offerings, the tech giant is increasingly resembling a bank, providing users with a range of financial functionalities. Let's delve into how Apple is evolving into a financial powerhouse, blurring the lines between technology and banking.
 
-![](</download (7).jpg>)
+![](</download (7).jpg> "Apple pay")![](</download (7).jpg> "a")
 
 Apple Pay: Revolutionizing the Way We Pay Apple Pay has revolutionized the way we make transactions, seamlessly merging convenience and security. By utilizing Apple Wallet, users can link their credit or debit cards and conduct secure transactions in stores, online, and within apps. This cashless payment system is a clear indication of Apple's intention to emulate the core functions of a bank account.
 
