@@ -1,6 +1,6 @@
 ---
 title: How to earn money from blog 2023 | ब्लॉग से पैसा कैसे कमाए
-image: /admin/blogger-3338181_1920.jpg
+image: /blogger-3338181_1920.jpg
 description: How to earn money from blog 2023 | ब्लॉग से पैसा कैसे कमाए
 type: post
 tags:
@@ -18,7 +18,7 @@ date: '2023-05-17T18:30:00.000Z'
 
 **Creating a Website:**
 
-![](/admin/internet-4463031_1920.jpg)
+![](/internet-4463031_1920.jpg)
 
 \*\*Select a niche: \*\*Choose a specific topic or area of interest for your blog.
 
@@ -30,7 +30,7 @@ Set up a Content Management System (CMS): Install a user-friendly CMS like WordP
 
 **Designing and Setting up the Website:**
 
-![](/admin/finger-769300_1920.jpg)
+![](/finger-769300_1920.jpg)
 
 **Choose a theme:** Select an attractive and responsive theme that suits your blog's style.
 
@@ -40,7 +40,7 @@ Set up a Content Management System (CMS): Install a user-friendly CMS like WordP
 
 **Content Creation:**
 
-![](/admin/gothic-1485829_1920.jpg)
+![](/gothic-1485829_1920.jpg)
 
 **Develop a content strategy:** Plan the type of content you want to create and identify your target audience.
 
@@ -52,11 +52,11 @@ Set up a Content Management System (CMS): Install a user-friendly CMS like WordP
 
 **Driving Traffic to Your Blog:**
 
-![](/admin/programming-4172154_1920.jpg)
+![](/programming-4172154_1920.jpg)
 
 \*\*Search Engine Optimization (SEO): \*\*Optimize your website to improve its visibility in search engine results.
 
-![](/admin/seo-441400_1920.jpg)
+![](/seo-441400_1920.jpg)
 
 **Promote on social media:** Share your blog posts on social media platforms to attract traffic.
 
@@ -66,7 +66,7 @@ Set up a Content Management System (CMS): Install a user-friendly CMS like WordP
 
 **Monetization Strategies:**
 
-![](/admin/freelance-2906725_1920.png)
+![](/freelance-2906725_1920.png)
 
 **Display advertisements:** Join advertising networks like Google AdSense to display ads on your blog.
 
