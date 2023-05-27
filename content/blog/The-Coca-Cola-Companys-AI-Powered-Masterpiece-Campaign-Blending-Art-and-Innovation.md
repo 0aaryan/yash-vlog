@@ -12,11 +12,14 @@ tags:
   - ChatGPT
   - 'Coca-Cola '
   - Ai
+date: '2023-05-26T18:30:00.000Z'
 ---
 
 Art has always been a powerful means of storytelling, capturing the essence of human emotion and imagination. In a groundbreaking move, The Coca-Cola Company has embraced generative AI technology, stepping into the realm of artistic expression and revolutionizing the advertising landscape. Introducing the Masterpiece campaign, Coca-Cola has taken the world by storm with an awe-inspiring advertisement that seamlessly merges history's most revered artworks with breakthrough artificial intelligence.
 
-\<iframe width="560" height="315" src="https://www.youtube.com/embed/VGa1imApfdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>\</iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 ### 1. The Concept of Coca-Cola's AI-Powered Campaign
 
