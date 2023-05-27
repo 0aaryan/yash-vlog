@@ -5,6 +5,12 @@ title: >-
 image: /cocacola.png
 type: featured
 tags:
+  - Advertisement
+  - Generative AI
+  - 'OpenAI collaboration '
+  - 'DALL-E2 model '
+  - ChatGPT
+  - 'Coca-Cola '
   - Ai
 ---
 
