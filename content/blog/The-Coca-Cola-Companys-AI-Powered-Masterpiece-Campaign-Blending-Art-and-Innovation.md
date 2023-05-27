@@ -10,7 +10,7 @@ tags:
 
 Art has always been a powerful means of storytelling, capturing the essence of human emotion and imagination. In a groundbreaking move, The Coca-Cola Company has embraced generative AI technology, stepping into the realm of artistic expression and revolutionizing the advertising landscape. Introducing the Masterpiece campaign, Coca-Cola has taken the world by storm with an awe-inspiring advertisement that seamlessly merges history's most revered artworks with breakthrough artificial intelligence.
 
-[https://youtu.be/VGa1imApfdg](https://youtu.be/VGa1imApfdg)
+\<iframe width="560" height="315" src="https://www.youtube.com/embed/VGa1imApfdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>\</iframe>
 
 ### 1. The Concept of Coca-Cola's AI-Powered Campaign
 
