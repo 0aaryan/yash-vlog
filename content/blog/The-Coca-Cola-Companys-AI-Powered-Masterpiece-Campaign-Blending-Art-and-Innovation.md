@@ -19,7 +19,7 @@ Art has always been a powerful means of storytelling, capturing the essence of h
 
 {{< youtube VGa1imApfdg >}}
 
-{{\\\< youtube VGa1imApfdg >}}
+
 
 ### 1. The Concept of Coca-Cola's AI-Powered Campaign
 
