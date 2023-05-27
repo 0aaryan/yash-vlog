@@ -75,6 +75,11 @@ export default defineConfig({
             isBody: true
           },
           {
+            type: "string",
+            name: "yt link"
+            label: "yt"
+          }
+          {
             type: "image",
             name: "image",
             label: "Image"
