@@ -1,5 +1,11 @@
 ---
 title: 'AI Impact: 14 Million Jobs Vanish in the Next Five Years'
+image: /chat-gpt-risks-for-seo.jpg
+type: featured
+tags:
+  - Ai
+  - jobs
+date: '2023-05-27T18:30:00.000Z'
 ---
 
 Massive disruptions are on the horizon for the global job market within the next five years as the economy experiences a downturn and businesses intensify their adoption of cutting-edge technologies like artificial intelligence.
