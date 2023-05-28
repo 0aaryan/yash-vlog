@@ -22,6 +22,4 @@ In light of these transformations, companies are reassessing the skills and comp
 
 The evolving landscape of the global job market presents numerous challenges and opportunities, necessitating adaptability and upskilling to navigate the impending disruptions brought about by economic shifts and technological advancements.
 
-
-
-![](</download (10).jpg>)
+![]()
