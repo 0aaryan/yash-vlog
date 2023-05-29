@@ -1,6 +1,7 @@
 ---
 title: 'The Evolution of NVIDIA: From Graphics Cards to an AI Powerhouse'
 image: /4ea4efc3-3488-41ab-8fed-efd7a2bc7b3_mid.jpg
+type: featured
 ---
 
 ## Introduction
@@ -54,6 +55,3 @@ NVIDIA's relentless pursuit of innovation, coupled with its unparalleled experti
 NVIDIA's journey from a graphics powerhouse to an AI company is a testament to its unwavering commitment to technological advancement. By harnessing the power of GPUs and investing in AI research and development, NVIDIA has transformed the AI landscape, enabling groundbreaking applications across various industries.
 
 As NVIDIA continues to innovate and collaborate with industry leaders, its influence in the AI ecosystem only grows stronger. The company's vision for the future promises a world where AI-powered solutions shape the way we live, work, and interact.
-
-
-
