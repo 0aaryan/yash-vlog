@@ -1,7 +1,7 @@
 ---
 title: 'AI Impact: 14 Million Jobs Vanish in the Next Five Years'
 image: /chat-gpt-risks-for-seo.jpg
-type: featured
+type: post
 tags:
   - Ai
 date: '2023-05-27T18:30:00.000Z'
