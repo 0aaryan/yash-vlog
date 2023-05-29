@@ -4,7 +4,6 @@ image: /chat-gpt-risks-for-seo.jpg
 type: featured
 tags:
   - Ai
-  - jobs
 date: '2023-05-27T18:30:00.000Z'
 draft: true
 ---
