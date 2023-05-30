@@ -1,6 +1,6 @@
 ---
 title: WhatsApp Makes Changes to Fight Against Spam Calls in India
-image: /Spam-Calls.jpg
+image: /1.webp
 type: post
 tags:
   - whatsapp
