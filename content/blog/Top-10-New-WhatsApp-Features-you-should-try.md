@@ -8,11 +8,10 @@ description: >-
   updates that will redefine your WhatsApp experience.
 type: featured
 date: '2023-05-29T18:30:00.000Z'
+image: /admin/whatsapp-new-features-coming-soon.webp
 ---
 
 WhatsApp, the popular messaging platform, is undergoing significant changes with the introduction of numerous features. These updates are set to transform the way users interact and communicate on WhatsApp. In this article, we will explore the key features that are either rolling out or in the process of being rolled out, shedding light on the exciting future of WhatsApp. Whether you're an individual user, a group chat admin, or someone interested in enhancing your WhatsApp experience, this article will provide valuable insights into the latest developments. So, let's delve into the details.
-
-
 
 * Chat Lock: Individual chat lock feature allows users to lock specific chats with a face unlock or fingerprint sensor for enhanced privacy.
 * Multi-Device Support: WhatsApp now supports connecting up to 4 devices simultaneously to the same WhatsApp account, making it easier to use on multiple devices.
@@ -27,6 +26,3 @@ WhatsApp, the popular messaging platform, is undergoing significant changes with
 * UI Change: The navigation bar is moving from the top to the bottom of the screen, aligning with the design trend of other social media platforms. This change is being implemented on Android devices, as it is already available on iPhones.
 
 Please note that some of these features may be rolling out gradually, and availability may vary depending on the device and location.
-
-
-
