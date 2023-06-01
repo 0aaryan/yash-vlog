@@ -1,6 +1,6 @@
 ---
 title: 'The dark side of EV: How It Could Be Hurting the World and Your Pocket'
-image: /admin/ev.webp
+image: /admin/2.webp
 type: featured
 date: '2023-05-31T18:30:00.000Z'
 ---
@@ -36,6 +36,3 @@ It's important to note that these calculations are based on the current context 
 While electric vehicles have gained significant popularity and are often hailed as the future of transportation, it's crucial to consider their actual environmental impact and cost-effectiveness. The research conducted by the Indian Institute of Technology, Kanpur suggests that hybrids, with their lower emissions and comparable costs, could be a better option in the current context.
 
 However, it's important to acknowledge that technology is constantly evolving, and advancements in battery technology, renewable energy sources, and charging infrastructure could potentially make EVs a more viable and sustainable choice in the future. As we continue to work towards a greener future, it's essential to assess and reevaluate our choices to ensure we make the best decisions for both the environment and our wallets.
-
-
-
