@@ -3,6 +3,8 @@ title: 'The dark side of EV: How It Could Be Hurting the World and Your Pocket'
 image: /admin/2.webp
 type: featured
 date: '2023-05-31T18:30:00.000Z'
+tags:
+  - EV
 ---
 
 In today’s fast-paced world, where concerns about the environment and rising fuel costs are becoming more prevalent, electric vehicles (EVs) have emerged as a popular choice for many consumers. With promises of zero emissions and long-term cost savings, EVs seem like the ideal solution for those who want to contribute to a cleaner and greener future while also saving money. However, recent research conducted by the Indian Institute of Technology, Kanpur suggests that the current state of EVs might not be as beneficial as we think. In fact, the study argues that hybrid vehicles, which combine an electric battery with an internal combustion engine (ICE) powered by fossil fuels, might actually be a better option for both the environment and our pockets.
